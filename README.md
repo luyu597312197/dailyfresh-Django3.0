@@ -1,6 +1,4 @@
 # dailyfresh
-配置环境和项目思路请查看：https://www.cnblogs.com/xiaodaima/p/11245292.html  
-需求分析  
 1.1  用户模块  
 1） 注册页  
 	注册时校验用户名是否已被注册。  
@@ -55,4 +53,3 @@ jieba
 alipay  
 requests  
   
-配置环境和思路请查看：https://www.cnblogs.com/xiaodaima/p/11245292.html  
